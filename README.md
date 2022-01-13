@@ -3,7 +3,6 @@
 <h4 align="center">Simple but powerful E2EE module</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/YesE2EE/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/YesE2EE?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/YesE2EE"><img src="https://bettercodehub.com/edge/badge/I2rys/YesE2EE?branch=main"></a>
 	<a href="https://github.com/I2rys/YesE2EE/issues"><img src="https://img.shields.io/github/issues/I2rys/YesE2EE.svg"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
